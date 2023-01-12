@@ -1,0 +1,9 @@
+SELECT ?itemLabel ?date ?placeLabel ?coor WHERE {
+  ?item wdt:P31 wd:Q115982785 ;
+        rdfs:label ?itemLabel ;
+        wdt:P571 ?date ;
+        wdt:P159 ?place .
+  ?place  rdfs:label ?placeLabel ;
+          wdt:P625 ?coor .
+  FILTER (lang(?placeLabel) = "nl")
+} ORDER BY ?date
