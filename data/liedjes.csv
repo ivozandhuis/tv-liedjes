@@ -62,7 +62,7 @@ typoID,sourceID,songID,titel,wijze,jaartal,schrijver,vereniging_schrijver
 ,album1856,divers-album1856-49,COSTERS HULDE,"Voort, voort mijn lieve Saartje !",1856,J. Breeman,amsterdam1849
 ,album1856,divers-album1856-50,HULDE AAN COSTER,O groote koopman in tabak,1856,J.P. Nobels,haarlem1851
 ,album1856,divers-album1856-51,Bij het standbeeld,Henri's drinklied,1856,H. Everts,tiel1852
-,album1856,divers-album1856-52,"DE UITVINDING DER BOEKDRUKKUNST. Cantate TE ZINGEN DOOR ALLE LEDEN DER TYPOGRAPHISCHE VEREENIGINGEN, BIJ HET STANDBEELD OF IN DEN HOUT, OP GEMAKKELIJKE EN MEEST BEKENDE ZANGWIJZEN.",,1856,J.K. de Regt,leiden1854
+,album1856,divers-album1856-52,DE UITVINDING DER BOEKDRUKKUNST,,1856,J.K. de Regt,leiden1854
 amsterdam1847,amsterdam1847-reglement1848,amsterdam1847-reglement1848-01,,De wereld is in rep en roer,1848,,amsterdam1847
 amsterdam1847,amsterdam1847-reglement1848,amsterdam1847-reglement1848-02,,,1848,,amsterdam1847
 amsterdam1847,amsterdam1847-reglement1848,amsterdam1847-reglement1848-03,,,1848,,amsterdam1847
@@ -302,7 +302,7 @@ amsterdam1857-1,amsterdam1857-1-liederen1858b,amsterdam1857-1-liederen1858b-03,F
 amsterdam1857-1,amsterdam1857-1-liederen1858b,amsterdam1857-1-liederen1858b-04,Opwekking,Het kan ja niet immer zoo blijven,1858,M. Smidt,amsterdam1857-1
 amsterdam1857-1,amsterdam1857-1-liederen1858b,amsterdam1857-1-liederen1858b-05,Tot besluit,Wie praalt aan 't hoofd der Heldenstoet,1858,M. Smidt,amsterdam1857-1
 amsterdam1857-1,amsterdam1857-1-volkslied1861,amsterdam1857-1-volkslied1861-01,Typographisch volkslied,Wien Neerlands bloed,1861,J.C. Belinfante,amsterdam1857-1
-arnhem1849,arnhem1849-coupletten1868,arnhem1849-coupletten1868-01,Leve Neêrlandsch Typographen-Bond! ,De oude en de nieuwe tijd,1868,J. Th. Scheepers,arnhem1849
+arnhem1849,arnhem1849-coupletten1868,arnhem1849-coupletten1868-01,"Leve Neêrlandsch Typographen-Bond! ",De oude en de nieuwe tijd,1868,J. Th. Scheepers,arnhem1849
 arnhem1849,arnhem1849-coupletten1868,arnhem1849-coupletten1868-02,Te werken voor meer loon,,1868,P. Werthweijn,
 arnhem1849,arnhem1849-feestboekje1869,arnhem1849-feestboekje1869-01,Huldelied,De Koning leef,1869,B.J. Geradts,arnhem1849
 arnhem1849,arnhem1849-feestboekje1869,arnhem1849-feestboekje1869-02,Nieuw Typografenlied,Oostenrijksch volklied,1869,J. Th. Scheepers,arnhem1849
@@ -562,7 +562,7 @@ utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-28,FEEST-MAR
 utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-29,HET AFSCHEID,"Wat wordt het laat, de klok slaat acht!",1854,J.H.C. Venman,utrecht1851
 utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-30,AFSCHEIDSLIED,Es kann ja nicht immer so bleiben,1854,J.P. Dieterich,utrecht1851
 utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-a,,,1854,,utrecht1851
-utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-b,Toewijding aan den beschermheer en de eere-leden der typographische vereeniging nut en genoegen.,,1854,,utrecht1851
+utrecht1851,utrecht1851-feestzangen1854,utrecht1851-feestzangen1854-b,"Toewijding aan den beschermheer ",,1854,,utrecht1851
 utrecht1851,utrecht1851-feestzangen1856,utrecht1851-feestzangen1856-01,Hulde aan Coster,Alle mooie meisjes,1856,P.G. van de Kamp,utrecht1851
 utrecht1851,utrecht1851-feestzangen1856,utrecht1851-feestzangen1856-02,De vereeniging,De wereld is in rep en roer,1856,J.C. Paap,utrecht1851
 utrecht1851,utrecht1851-feestzangen1856,utrecht1851-feestzangen1856-03,Lof der drukkunst,De wereld is in rep en roer,1856,W. Vos,utrecht1851
@@ -758,3 +758,15 @@ leiden1854,leiden1854-feestzangen1864,leiden1854-feestzangen1864-03,De vrolijke 
 leiden1854,leiden1854-feestzangen1864,leiden1854-feestzangen1864-04,Toasten,"Solderen, solderen",1864,,leiden1854
 leiden1854,leiden1854-feestzangen1864,leiden1854-feestzangen1864-05,Feestvreugde,Wien Neerlands bloed,1864,,leiden1854
 leiden1854,leiden1854-feestzangen1864,leiden1854-feestzangen1864-06,Hulde aan Lourens Coster,"Louw, Louw",1864,,leiden1854
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-01,Welkomstlied,De vrolijke Visscher,1858,M. Uitenbosch,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-02,Hulde aan de donateuren,Partant pour la Syrie,1858,J.P. Nobels,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-03,Feestmarsch,Komt vrienden op dit Kopperfeest,1858,M. Uitenbosch,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-04,Banierlied,Wien Neerlands bloed,1858,M. Uitenbosch,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-05,Ons vak,Gij die thans met mij zijt ter jagt,1858,M. Uitenbosch,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-06,Drinklied,Henri's drinklied,1858,N. van Amesfoort,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-07,Onze vreugd,Waar is Keesje,1858,J.P. Nobels,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-08,Vriendschap,"Goeden morgen, mijn heer Becker",1858,,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-09,Drukkers-lied,Henri's drinklied,1858,,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-10,Feest-lied,Wat wordt het laat,1858,,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-11,Ons feest,Ik ben een Nederlandsch Soldaat,1858,J.P. Nobels,haarlem1851
+haarlem1851,haarlem1851-feestliederen1858,haarlem1851-feestliederen1858-12,,De Koning leef,1858,,haarlem1851
